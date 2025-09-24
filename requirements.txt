@@ -1,0 +1,12 @@
+# BIRD Test Suite Dependencies
+# Core dependencies
+django>=4.0
+pyecore>=0.15.1
+pytest-cov>=4.0
+pytest-html>=3.0
+pytest-xdist>=2.0
+pytest>=6.0
+
+# Optional testing enhancements
+pytest-html>=3.0  # HTML test reports
+pytest-cov>=4.0   # Coverage reporting

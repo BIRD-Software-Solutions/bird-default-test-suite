@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Test results
+tests/test_results/
+*.coverage
+htmlcov/
+.coverage.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
