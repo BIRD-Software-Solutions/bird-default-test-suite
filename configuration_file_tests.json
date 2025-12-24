@@ -1,4 +1,5 @@
 {
+  "test_type": "finrep",
   "tests": [
     {
       "reg_tid": "F_05_01_REF_FINREP_3_0",
